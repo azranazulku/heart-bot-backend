@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+torch
+transformers
+torchxrayvision
+scikit-image
+torchvision
+numpy
+matplotlib
+seaborn
+python-multipart
+dotenv
+openai
+sqlalchemy
+psycopg2
